@@ -1,0 +1,574 @@
+{
+    "temas": {
+        "gerais": [
+            {
+                "pergunta": "De quem é a famosa frase “Penso, logo existo”?",
+                "opcoes": [
+                    "Platão",
+                    "Galileu Galilei",
+                    "Descartes"
+                ],
+                "resposta": "Descartes"
+            },
+            {
+                "pergunta": "De onde é a invenção do chuveiro elétrico?",
+                "opcoes": [
+                    "França",
+                    "Brasil",
+                    "Itália"
+                ],
+                "resposta": "Brasil"
+            },
+            {
+                "pergunta": "Quantos elementos químicos a tabela periódica possui?",
+                "opcoes": [
+                    "109",
+                    "118",
+                    "92"
+                ],
+                "resposta": "118"
+            },
+            {
+                "pergunta": "O que a palavra legend significa em português?",
+                "opcoes": [
+                    "Legenda",
+                    "Legendário",
+                    "Lenda"
+                ],
+                "resposta": "Lenda"
+            },
+            {
+                "pergunta": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+                "opcoes": [
+                    "8 minutos",
+                    "12 segundos",
+                    "12 minutos"
+                ],
+                "resposta": "8 minutos"
+            },
+            {
+                "pergunta": "Qual a montanha mais alta do Brasil?",
+                "opcoes": [
+                    "Pico Paraná",
+                    "Pico Maior de Friburgo",
+                    "Pico da Neblina"
+                ],
+                "resposta": "Pico da Neblina"
+            },
+            {
+                "pergunta": "Quem é o autor de “O Príncipe”?",
+                "opcoes": [
+                    "Rousseau",
+                    "Maquiavel",
+                    "Montesquieu"
+                ],
+                "resposta": "Maquiavel"
+            },
+            {
+                "pergunta": "Qual o maior animal terrestre?",
+                "opcoes": [
+                    "Elefante africano",
+                    "Dinossauro",
+                    "Girafa"
+                ],
+                "resposta": "Elefante africano"
+            },
+            {
+                "pergunta": "Qual tipo sanguíneo é considerado doador universal?",
+                "opcoes": [
+                    "Tipo A",
+                    "Tipo B",
+                    "Tipo O"
+                ],
+                "resposta": "Tipo O"
+            },
+            {
+                "pergunta": "Qual país tem a maior população do mundo atualmente?",
+                "opcoes": [
+                    "Índia",
+                    "China",
+                    "Estados Unidos"
+                ],
+                "resposta": "China"
+            },
+            {
+                "pergunta": "Quantos ossos tem o corpo humano?",
+                "opcoes": [
+                    "202",
+                    "206",
+                    "209"
+                ],
+                "resposta": "206"
+            },
+            {
+                "pergunta": "Qual o planeta mais próximo do sol?",
+                "opcoes": [
+                    "Mercúrio",
+                    "Marte",
+                    "Netuno"
+                ],
+                "resposta": "Mercúrio"
+            }
+        ],
+        "cinema": [
+            {
+                "pergunta": "Quem dirigiu o filme 'Titanic'?",
+                "opcoes": [
+                    "Steven Spielberg",
+                    "James Cameron",
+                    "Martin Scorsese"
+                ],
+                "resposta": "James Cameron"
+            },
+            {
+                "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 2024?",
+                "opcoes": [
+                    "Everything Everywhere All at Once",
+                    "Top Gun: Maverick",
+                    "Avatar: The Way of Water"
+                ],
+                "resposta": "Everything Everywhere All at Once"
+            },
+            {
+                "pergunta": "Qual é o nome do personagem principal em 'Matrix'?",
+                "opcoes": [
+                    "Neo",
+                    "Morpheus",
+                    "Trinity"
+                ],
+                "resposta": "Neo"
+            },
+            {
+                "pergunta": "Qual atriz interpretou Hermione Granger na série Harry Potter?",
+                "opcoes": [
+                    "Emma Watson",
+                    "Keira Knightley",
+                    "Natalie Portman"
+                ],
+                "resposta": "Emma Watson"
+            },
+            {
+                "pergunta": "O que é um “cameo” em cinema?",
+                "opcoes": [
+                    "Um personagem principal",
+                    "Uma aparição rápida de uma celebridade",
+                    "Um tipo de fotografia"
+                ],
+                "resposta": "Uma aparição rápida de uma celebridade"
+            },
+            {
+                "pergunta": "Qual o gênero do filme 'O Exorcista'?",
+                "opcoes": [
+                    "Terror",
+                    "Comédia",
+                    "Romance"
+                ],
+                "resposta": "Terror"
+            },
+            {
+                "pergunta": "Quem compôs a trilha sonora de 'Star Wars'?",
+                "opcoes": [
+                    "John Williams",
+                    "Hans Zimmer",
+                    "Danny Elfman"
+                ],
+                "resposta": "John Williams"
+            },
+            {
+                "pergunta": "Em que país é ambientado o filme 'Parasita'?",
+                "opcoes": [
+                    "Coreia do Sul",
+                    "Japão",
+                    "China"
+                ],
+                "resposta": "Coreia do Sul"
+            },
+            {
+                "pergunta": "Qual filme é conhecido pela frase 'I'll be back'?",
+                "opcoes": [
+                    "Terminator",
+                    "Die Hard",
+                    "Predator"
+                ],
+                "resposta": "Terminator"
+            },
+            {
+                "pergunta": "Quem interpreta Tony Stark nos filmes Marvel?",
+                "opcoes": [
+                    "Chris Evans",
+                    "Robert Downey Jr.",
+                    "Chris Hemsworth"
+                ],
+                "resposta": "Robert Downey Jr."
+            }
+        ],
+        "esportes": [
+            {
+                "pergunta": "Quantos jogadores tem um time de futebol em campo?",
+                "opcoes": [
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "resposta": "11"
+            },
+            {
+                "pergunta": "Em que esporte Michael Jordan se destacou?",
+                "opcoes": [
+                    "Futebol",
+                    "Basquete",
+                    "Tênis"
+                ],
+                "resposta": "Basquete"
+            },
+            {
+                "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
+                "opcoes": [
+                    "Brasil",
+                    "Alemanha",
+                    "África do Sul"
+                ],
+                "resposta": "Brasil"
+            },
+            {
+                "pergunta": "Quantos pontos vale um touchdown no futebol americano?",
+                "opcoes": [
+                    "3",
+                    "6",
+                    "7"
+                ],
+                "resposta": "6"
+            },
+            {
+                "pergunta": "Quem detém o recorde mundial dos 100 metros rasos masculino?",
+                "opcoes": [
+                    "Usain Bolt",
+                    "Carl Lewis",
+                    "Tyson Gay"
+                ],
+                "resposta": "Usain Bolt"
+            },
+            {
+                "pergunta": "Qual é o esporte conhecido como 'o rei dos esportes'?",
+                "opcoes": [
+                    "Basquete",
+                    "Futebol",
+                    "Tênis"
+                ],
+                "resposta": "Futebol"
+            },
+            {
+                "pergunta": "Quantos jogadores tem uma equipe de vôlei na quadra?",
+                "opcoes": [
+                    "5",
+                    "6",
+                    "7"
+                ],
+                "resposta": "6"
+            },
+            {
+                "pergunta": "Qual país é conhecido por dominar o hóquei no gelo?",
+                "opcoes": [
+                    "Canadá",
+                    "Espanha",
+                    "Brasil"
+                ],
+                "resposta": "Canadá"
+            },
+            {
+                "pergunta": "Quantos sets para vencer um Grand Slam masculino?",
+                "opcoes": [
+                    "3",
+                    "5",
+                    "7"
+                ],
+                "resposta": "5"
+            },
+            {
+                "pergunta": "Em que esporte se utiliza a expressão 'touchdown'?",
+                "opcoes": [
+                    "Futebol americano",
+                    "Vôlei",
+                    "Basquete"
+                ],
+                "resposta": "Futebol americano"
+            }
+        ],
+        "jogos": [
+            {
+                "pergunta": "Quel o personagem principal de 'The Legend of Zelda'?",
+                "opcoes": [
+                    "Link",
+                    "Zelda",
+                    "Ganondorf"
+                ],
+                "resposta": "Link"
+            },
+            {
+                "pergunta": "Qual console foi lançado pela Sony em 1994?",
+                "opcoes": [
+                    "PlayStation",
+                    "Xbox",
+                    "Nintendo 64"
+                ],
+                "resposta": "PlayStation"
+            },
+            {
+                "pergunta": "Qual jogo é conhecido pela frase 'The cake is a lie'?",
+                "opcoes": [
+                    "Portal",
+                    "Half-Life",
+                    "Minecraft"
+                ],
+                "resposta": "Portal"
+            },
+            {
+                "pergunta": "Em que ano foi lançado o jogo 'Minecraft'?",
+                "opcoes": [
+                    "2009",
+                    "2011",
+                    "2013"
+                ],
+                "resposta": "2011"
+            },
+            {
+                "pergunta": "Qual é o objetivo do jogo 'Among Us'?",
+                "opcoes": [
+                    "Sobreviver e descobrir o impostor",
+                    "Construir uma cidade",
+                    "Lutar contra zumbis"
+                ],
+                "resposta": "Sobreviver e descobrir o impostor"
+            },
+            {
+                "pergunta": "Qual personagem é o mascote da Nintendo?",
+                "opcoes": [
+                    "Mario",
+                    "Sonic",
+                    "Pikachu"
+                ],
+                "resposta": "Mario"
+            },
+            {
+                "pergunta": "Qual jogo popular usa blocos para construir e explorar mundos?",
+                "opcoes": [
+                    "Roblox",
+                    "Minecraft",
+                    "Fortnite"
+                ],
+                "resposta": "Minecraft"
+            },
+            {
+                "pergunta": "Em que gênero se classifica o jogo 'League of Legends'?",
+                "opcoes": [
+                    "FPS",
+                    "MOBA",
+                    "RPG"
+                ],
+                "resposta": "MOBA"
+            },
+            {
+                "pergunta": "O que significa NPC em jogos?",
+                "opcoes": [
+                    "Personagem jogável",
+                    "Personagem não jogável",
+                    "Novo personagem criado"
+                ],
+                "resposta": "Personagem não jogável"
+            },
+            {
+                "pergunta": "Qual jogo é famoso pelo modo Battle Royale?",
+                "opcoes": [
+                    "Fortnite",
+                    "Candy Crush",
+                    "Tetris"
+                ],
+                "resposta": "Fortnite"
+            }
+        ],
+        "geografia": [
+            {
+                "pergunta": "Qual o maior deserto do mundo?",
+                "opcoes": [
+                    "Saara",
+                    "Gobi",
+                    "Antártico"
+                ],
+                "resposta": "Antártico"
+            },
+            {
+                "pergunta": "Qual é o rio mais longo do mundo?",
+                "opcoes": [
+                    "Nilo",
+                    "Amazonas",
+                    "Yangtzé"
+                ],
+                "resposta": "Amazonas"
+            },
+            {
+                "pergunta": "Qual país tem a maior extensão territorial?",
+                "opcoes": [
+                    "Canadá",
+                    "China",
+                    "Rússia"
+                ],
+                "resposta": "Rússia"
+            },
+            {
+                "pergunta": "Qual é o continente mais populoso?",
+                "opcoes": [
+                    "África",
+                    "Ásia",
+                    "Europa"
+                ],
+                "resposta": "Ásia"
+            },
+            {
+                "pergunta": "Qual cidade é conhecida como 'A Cidade Luz'?",
+                "opcoes": [
+                    "Londres",
+                    "Paris",
+                    "Roma"
+                ],
+                "resposta": "Paris"
+            },
+            {
+                "pergunta": "Qual é o maior oceano do planeta?",
+                "opcoes": [
+                    "Atlântico",
+                    "Pacífico",
+                    "Índico"
+                ],
+                "resposta": "Pacífico"
+            },
+            {
+                "pergunta": "Em qual país fica a Grande Barreira de Coral?",
+                "opcoes": [
+                    "Austrália",
+                    "Brasil",
+                    "África do Sul"
+                ],
+                "resposta": "Austrália"
+            },
+            {
+                "pergunta": "Qual o país mais populoso da América do Sul?",
+                "opcoes": [
+                    "Argentina",
+                    "Brasil",
+                    "Colômbia"
+                ],
+                "resposta": "Brasil"
+            },
+            {
+                "pergunta": "Qual é o ponto mais baixo da Terra?",
+                "opcoes": [
+                    "Mar Morto",
+                    "Lago Baikal",
+                    "Vale da Morte"
+                ],
+                "resposta": "Mar Morto"
+            },
+            {
+                "pergunta": "Qual capital fica no continente africano?",
+                "opcoes": [
+                    "Cairo",
+                    "Bangkok",
+                    "Lisboa"
+                ],
+                "resposta": "Cairo"
+            }
+        ],
+        "historia": [
+            {
+                "pergunta": "Em que ano foi proclamada a independência do Brasil?",
+                "opcoes": [
+                    "1822",
+                    "1889",
+                    "1808"
+                ],
+                "resposta": "1822"
+            },
+            {
+                "pergunta": "Quem liderou a Revolução Russa de 1917?",
+                "opcoes": [
+                    "Stalin",
+                    "Lenin",
+                    "Trotsky"
+                ],
+                "resposta": "Lenin"
+            },
+            {
+                "pergunta": "Qual civilização construiu as pirâmides do Egito?",
+                "opcoes": [
+                    "Maias",
+                    "Egípcios",
+                    "Romanos"
+                ],
+                "resposta": "Egípcios"
+            },
+            {
+                "pergunta": "Qual foi o primeiro presidente dos Estados Unidos?",
+                "opcoes": [
+                    "Thomas Jefferson",
+                    "George Washington",
+                    "Abraham Lincoln"
+                ],
+                "resposta": "George Washington"
+            },
+            {
+                "pergunta": "O que foi a Guerra Fria?",
+                "opcoes": [
+                    "Conflito entre EUA e União Soviética",
+                    "Guerra na Europa medieval",
+                    "Conflito no Oriente Médio"
+                ],
+                "resposta": "Conflito entre EUA e União Soviética"
+            },
+            {
+                "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+                "opcoes": [
+                    "1989",
+                    "1991",
+                    "1985"
+                ],
+                "resposta": "1989"
+            },
+            {
+                "pergunta": "Quem descobriu a América em 1492?",
+                "opcoes": [
+                    "Vasco da Gama",
+                    "Cristóvão Colombo",
+                    "Pedro Álvares Cabral"
+                ],
+                "resposta": "Cristóvão Colombo"
+            },
+            {
+                "pergunta": "Qual foi a principal causa da Primeira Guerra Mundial?",
+                "opcoes": [
+                    "Assassinato do arquiduque Franz Ferdinand",
+                    "Crise econômica",
+                    "Disputa colonial"
+                ],
+                "resposta": "Assassinato do arquiduque Franz Ferdinand"
+            },
+            {
+                "pergunta": "Qual era o sistema político vigente na Idade Média?",
+                "opcoes": [
+                    "Democracia",
+                    "Feudalismo",
+                    "República"
+                ],
+                "resposta": "Feudalismo"
+            },
+            {
+                "pergunta": "Quem foi Napoleão Bonaparte?",
+                "opcoes": [
+                    "Imperador francês",
+                    "Rei da Inglaterra",
+                    "General russo"
+                ],
+                "resposta": "Imperador francês"
+            }
+        ]
+    }
+}
