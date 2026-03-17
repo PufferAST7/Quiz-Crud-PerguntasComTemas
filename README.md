@@ -1,3 +1,5 @@
+Sistema de Quiz com Gerenciador de Perguntas
+
 Sobre o projeto
 
 Este projeto consiste em um sistema completo de quiz interativo, desenvolvido em Python utilizando a biblioteca Tkinter para interface gráfica.
